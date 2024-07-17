@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas, tanto operacionais quanto nas tomadas de decisão.
 Sou um eterno estudante :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Megadan**
+ :rocket:  &nbsp; Estou trabalhando na **Senai**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end para aprender cada vez mais!!
   <br/> :computer: &nbsp; Minha stack: Phython e aprendendo: ReactJS, Node.js, React Native & Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, animes, mangás e seriados no Netflix
